@@ -1,6 +1,0 @@
-Esta es la historia de Fredy Platzi
-
-Vamos a probar varios comandos de Git y Github
-
-fredy Platzi tiene 32 años y esta es una nueva linea
-para el git status
