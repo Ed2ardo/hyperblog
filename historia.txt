@@ -2,4 +2,4 @@ Esta es la historia de Fredy Platzi
 
 Vamos a probar varios comandos de Git y Github
 
-De su vida.
+De su vida. E Historia maestra
